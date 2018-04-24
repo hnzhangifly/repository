@@ -1,0 +1,2 @@
+private string name;
+private string sex;
