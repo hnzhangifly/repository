@@ -11,3 +11,5 @@ add merge
 dev
 feature
 reposting origin
+origin dev
+
